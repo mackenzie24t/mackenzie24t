@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mackenzie</h1>
 <h3 align="center">Aspiring web and software dev.</h3>
 
-- 🔭 I’m currently working on [foxtrot-literate-octo-engine](https://github.com/mackenzie24t/foxtrot-literate-octo-engine)
-
 - 👨‍💻 All of my projects are available at [https://github.com/mackenzie24t](https://github.com/mackenzie24t)
 
 - ⚡ Fun fact **I review movies with my friend, Jason**
